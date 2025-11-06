@@ -5,6 +5,7 @@ import styled from "styled-components";
 // import MyPromise from "./MyPromise";
 import EventLogger from "./EventLogger";
 import SearchBox from "./SearchBox";
+import MinimalVirtualizedList from "./MinimalVirtualizedList"
 // import PerformanceRefactor from "./PerformanceRefactor";
 // import Timer from "./TimerRefactor";
 // import returnDuplicates from "./returnDuplicates";
@@ -176,6 +177,15 @@ function App() {
         </TomatoButton> */}
 
         <SearchBox> </SearchBox>
+        <br></br>
+        <br></br>
+        <br></br>
+
+        <MinimalVirtualizedList></MinimalVirtualizedList>
+
+        <br></br>
+        <br></br>
+        <br></br>
 
         {/* <PerformanceRefactor></PerformanceRefactor> */}
 
