@@ -4,7 +4,7 @@ import styled from "styled-components";
 // import JsGeneratorComp from "./JsGeneratorComp";
 // import MyPromise from "./MyPromise";
 import EventLogger from "./EventLogger";
-import SearchBox from "./SearchBox";
+import SearchBox from "./SearchBoxV2";
 import MinimalVirtualizedList from "./MinimalVirtualizedList"
 // import PerformanceRefactor from "./PerformanceRefactor";
 // import Timer from "./TimerRefactor";
